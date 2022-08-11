@@ -14,11 +14,12 @@ sudo apt install libsdl2-2.0-0 libsdl2-dev libsdl2-image-2.0-0 libsdl2-image-dev
 ```
 #### clone this repo with
 ```
-git clone 
+git clone https://github.com/ahmedProgrammer7/flappy-bird-clone-in-SDL2-C.git
 ```
 
 #### build and run with
 ```
+cd flappy-bird-clone-SDL2-C
 make
 ./bin/game
 ```
